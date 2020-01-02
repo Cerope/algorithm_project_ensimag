@@ -6,3 +6,5 @@ Adrien DELEPLACE
 Louis SOUM-FONTEZ
 
 This was realised as a school project in early 2019.
+
+Full commit history available upon request.
